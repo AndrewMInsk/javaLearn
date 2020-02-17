@@ -8,11 +8,11 @@ public class Solution {
     private static void roundSquare(int a, int b){
         double square1 = Math.PI*Math.pow(a,2);
         double square2 = Math.PI*Math.pow(b,2);
-        if(square1>square2) {
-            System.out.println("Больше первый");
-        }
-        else{
-            System.out.println("Больше второй");
-        }
+            if(square1>square2) {
+                System.out.println("Больше первый");
+            }
+            else{
+                System.out.println("Больше второй");
+            }
     }
 }

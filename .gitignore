@@ -2,3 +2,4 @@
 /.idea/
 #/src/
 JavaEpam.iml
+.gitignore
